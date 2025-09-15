@@ -2,7 +2,7 @@
 
 **Software Engineer** | **Ex-Investment Advisor** | **AI & Fintech Enthusiast**
 
-[LinkedIn](https://linkedin.com/in/gertsdev) • [Email](mailto:hello@gerts.dev) • [Website](https://gerts.dev) • [Twitter](https://twitter.com/gertsdev)
+[linkedin.com/in/gertsdev](https://linkedin.com/in/gertsdev) • [gertsdev@gmail.com](mailto:gertsdev@gmail.com) • [gerts.dev](https://gerts.dev) • [x.com/gertsio](https://x.com/gertsio)
 
 ---
 
