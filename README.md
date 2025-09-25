@@ -36,21 +36,20 @@ As a public advocate for technology—through writing, speaking, and community w
 **StartUpChain**  
 _ETHGlobal 2025 NY Hackathon winner. Business registration & management on blockchain_
 
-- GitHub: [https://github.com/zenbitETH/startupchain](#)
-- Website: [www.startupchain.io](#)
-
+- [github.com/zenbitETH/startupchain](https://github.com/zenbitETH/startupchain)
+- [startupchain.io](https://www.startupchain.io)
 
 **Graft**  
 _Modern and highly functional personal task tracker_
 
-- GitHub: [https://github.com/GertsDev/graft-ink](#)
-- Website: [www.graft.ink](#)
+- [github.com/GertsDev/graft-ink](https://github.com/GertsDev/graft-ink)
+- [graft.ink](https://www.graft.ink)
 
 **Burgerverse**  
 _It's actually a galactic burger joint app._
 
-- GitHub: [https://github.com/GertsDev/burgerverse-frontend](#)
-- Website: [burgerverse.space](#)
+- [github.com/GertsDev/burgerverse-frontend](https://github.com/GertsDev/burgerverse-frontend)
+- [burgerverse.space](https://burgerverse.space)
 
 **Building app for IPO tracking is in progress...**
 
