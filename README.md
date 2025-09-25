@@ -2,8 +2,6 @@
 
 Software Engineer | Ex-Investment Advisor | AI Engineer
 
-[linkedin.com/in/gertsdev](https://linkedin.com/in/gertsdev) • [gertsdev@gmail.com](mailto:gertsdev@gmail.com) • [x.com/gertsio](https://x.com/gertsio)
-
 - Ship fast. Think in systems. Make data feel simple.
 - Looking for a sharp team that actually ships.
 ---
