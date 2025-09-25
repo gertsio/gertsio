@@ -33,6 +33,13 @@ As a public advocate for technology—through writing, speaking, and community w
 
 ### 🚀 Key Projects
 
+**StartUpChain**  
+_ETHGlobal 2025 NY Hackathon winner. Business registration & management on blockchain_
+
+- GitHub: [https://github.com/zenbitETH/startupchain](#)
+- Website: [www.startupchain.io](#)
+
+
 **Graft**  
 _Modern and highly functional personal task tracker_
 
