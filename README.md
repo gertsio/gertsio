@@ -45,7 +45,3 @@ _It's actually a galactic burger joint app._
 - **Authentication & Security:** NextAuth.js, Clerk, Auth0, JWT, OAuth 2.0
 - **AI & Data Science:** OpenAI API, LangChain, Machine Learning, Stock Analysis
 - **Build & Tooling:** Bun, pnpm, Turborepo, Webpack, Vite
-
----
-
-_"Keep learning, keep shipping, keep it clean"_
