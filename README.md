@@ -1,45 +1,69 @@
-## Kirill Gerts
+# Kirill Gerts
+Software Engineer (React/Next.js/Node)
 
-Software Engineer | Ex-Investment Advisor | AI Engineer
-
-- Ship fast. Think in systems. Make data feel simple.
-- Looking for a sharp team that actually ships.
----
-
-### 🚀 Key Projects
-
-**StartUpChain**  
-_ETHGlobal 2025 NY Hackathon winner. Business registration & management on blockchain_
-
-- [github.com/zenbitETH/startupchain](https://github.com/zenbitETH/startupchain)
-- [startupchain.io](https://www.startupchain.io)
-
-**Graft**  
-_Modern and highly functional personal task tracker_
-
-- [github.com/GertsDev/graft-ink](https://github.com/GertsDev/graft-ink)
-- [graft.ink](https://www.graft.ink)
-
-**Burgerverse**  
-_It's actually a galactic burger joint app._
-
-- [github.com/GertsDev/burgerverse-frontend](https://github.com/GertsDev/burgerverse-frontend)
-- [burgerverse.space](https://burgerverse.space)
-
-**Building app for IPO tracking is in progress...**
+🇺🇸 Based in NYC • Open to Frontend leaning / Full-stack Roles  
+**Email:** gertsdev@gmail.com • **LinkedIn:** https://linkedin.com/in/gertsio 
 
 ---
 
-### 🛠️ Stack
+## 🔥 Featured
 
-- **Languages:** JavaScript (ES2025+), TypeScript, Python, SQL
-- **Frontend Frameworks:** React, Next.js (App Router), Astro
-- **Backend & APIs:** Node.js, Express.js, tRPC, GraphQL, REST, WebSockets
-- **Styling & UI:** Tailwind CSS, CSS Modules, Material UI, ShadCN UI, Radix UI, Framer Motion
-- **State & Data:** Zustand, Redux Toolkit, TanStack Query, SWR
-- **Databases & ORM:** PostgreSQL, MySQL, MongoDB, Redis, Prisma, Drizzle ORM
-- **Platforms & DevOps:** AWS, Docker, Vercel, Railway, Netlify, GitHub Actions, CI/CD
-- **Testing & Quality:** Jest, Vitest, Cypress, Playwright, ESLint, Prettier
-- **Authentication & Security:** NextAuth.js, Clerk, Auth0, JWT, OAuth 2.0
-- **AI & Data Science:** OpenAI API, LangChain, Machine Learning, Stock Analysis
-- **Build & Tooling:** Bun, pnpm, Turborepo, Webpack, Vite
+### StartUpChain — ETHGlobal NY 2025 Winner
+Business registration & management on blockchain.
+
+- Led a 4-person team: scoped MVP, broke work into issues, assigned ownership, and drove daily shipping
+- Owned core product flow: onboarding → entity creation → management dashboard
+- Shipped a demo-ready end-to-end experience under hackathon constraints; project is **still actively developed**
+
+**Repo:** https://github.com/zenbitETH/startupchain  
+**Live:** https://www.startupchain.io
+
+---
+
+## 🚀 Projects
+
+### Graft
+Modern personal task tracker on Convex.
+
+- Realtime data (subscriptions) with responsive UI + optimistic UX patterns
+- Clean component system + scalable state/data architecture
+- Deployed on Vercel with PR checks (lint/type) and fast iteration loop
+
+**Repo:** https://github.com/GertsDev/graft-ink  
+**Live:** https://www.graft.ink
+
+### Burgerverse
+Galactic burger joint app with OAuth 2.0 and order sync.
+
+- OAuth 2.0 auth flow + protected routes + session handling
+- Frontend ↔ backend sync for orders with reliable API contracts
+- Separated frontend/backend repos for clear ownership and deployment
+
+**Frontend:** https://github.com/GertsDev/burgerverse-frontend  
+**Backend:** https://github.com/GertsDev/burgerverse-backend  
+**Live:** https://burgerverse.space
+
+---
+
+## 🧠 What I’m best at
+
+- Product UI that feels fast and obvious
+- Data-heavy dashboards (tables, filters, search, states)
+- Frontend architecture: components, state, async data, performance
+- Auth + integrations: OAuth, JWT, third-party APIs, AI SDK workflows
+
+---
+
+## 🧰 Core stack
+
+**Frontend:** React, Next.js (App Router), TypeScript, Tailwind, shadcn/ui, Radix  
+**Data:** TanStack Query, tRPC/REST, WebSockets, Convex  
+**Backend (when needed):** Node.js, PostgreSQL, Prisma/Drizzle  
+**Quality & Dev:** Vitest/Jest, Playwright/Cypress, ESLint, CI/CD, Docker
+
+---
+
+## 🤝 Let’s talk
+
+If you’re building a product that ships and you want someone who can own UI + execution:  
+**DM me on LinkedIn** or email me at **gertsdev@gmail.com**.
