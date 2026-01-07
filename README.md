@@ -9,7 +9,7 @@
 ## Summary
 
 Full-stack engineer with a product-first mindset and a background in finance.  
-I build end-to-end web products, from UI and APIs to auth, data models, and deployment — and I’m comfortable owning features from idea to production in small, fast-moving teams.
+I build end-to-end web products, from UI and APIs to auth, data models, and deployment. I’m comfortable owning features from idea to production in small, fast-moving teams.
 
 
 ---
@@ -79,4 +79,4 @@ Full-stack OAuth-based ordering app.
 ## 🤝 Let’s talk
 
 If you’re building a product and want someone who can own features end-to-end,  
-reach out on [**LinkedIn**](https://www.linkedin.com/in/gertsio/) or email **gertsdev@gmail.com**.
+reach out on [**LinkedIn**](https://www.linkedin.com/in/gertsio/) or email **gertsdev@gmail.com**
