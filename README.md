@@ -29,33 +29,6 @@ Business registration & management on blockchain.
 
 ---
 
-## 🚀 Projects
-
-### Graft
-Modern personal task tracker on Convex.
-
-- Designed data models and real-time subscriptions
-- Built responsive UI with optimistic updates and async state handling
-- Structured components and state for long-term scalability
-- CI checks (lint, types) and Vercel deployment
-
-**Repo:** https://github.com/GertsDev/graft-ink  
-**Live:** https://www.graft.ink
-
-### Burgerverse
-Full-stack OAuth-based ordering app.
-
-- Implemented OAuth 2.0 authentication, sessions, and protected routes
-- Built REST APIs for order creation and synchronization
-- Clear separation of frontend and backend services
-- Managed API contracts between client and server
-
-**Frontend:** https://github.com/GertsDev/burgerverse-frontend  
-**Backend:** https://github.com/GertsDev/burgerverse-backend  
-**Live:** https://burgerverse.space
-
----
-
 ## 🧠 Focus Areas
 
 - End-to-end feature ownership (UI → API → data → deploy)
